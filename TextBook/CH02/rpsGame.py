@@ -23,8 +23,8 @@ while True: # メインのゲームループ
 
     # プレーヤーの入力した手を表示する
     print(MOVE_NAMES[player_move] + ' versus...')
-
     # コンピューターの手を表示する
+
     computer_move = random.randint(0, 2)
     print(MOVE_NAMES[computer_move])
 
