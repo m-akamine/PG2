@@ -28,3 +28,10 @@
 * 6.7　プロジェクト：Wikiで箇条書きのマークアップ(P.180-P.183) [bulletPointAdder.py](TextBook/CH06/bulletPointAdder.py)
 * 6.8　短いプログラム：ピッグ・ラテン(P.183-P.187) [pigLat.py](TextBook/CH06/pigLat.py)
 * 6.11　演習プロジェクト(P.189-P.189) [print_table.py](TextBook/CH06/print_table.py)
+
+### 7章 正規表現を使ったパターンマッチ
+* 7.1　正規表現を用いないテキストパターン検索(P.194-P.195) [isPhoneNumber.py](TextBook/CH07/isPhoneNumber.py)
+* 7.15　プロジェクト：電話番号と電子メールアドレスの抽出(P.215-P.221) [phoneAndEmail.py](TextBook/CH07/phoneAndEmail.py), [JPhoneAndEmail.py](TextBook/CH07/JPhoneAndEmail.py)
+* 7.18.1　日付の検出(P.224)  [datedetection.py](TextBook/CH07/datedetection.py)
+* 7.18.2　強いパスワードの検出(P.224) [check_password.py](TextBook/CH07/check_password.py)
+* 7.18.3　正規表現を用いたstrip()メソッド(P.225) [restrip.py](TextBook/CH07/restrip.py)
