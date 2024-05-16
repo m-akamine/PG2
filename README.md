@@ -35,3 +35,9 @@
 * 7.18.1　日付の検出(P.224)  [datedetection.py](TextBook/CH07/datedetection.py)
 * 7.18.2　強いパスワードの検出(P.224) [check_password.py](TextBook/CH07/check_password.py)
 * 7.18.3　正規表現を用いたstrip()メソッド(P.225) [restrip.py](TextBook/CH07/restrip.py)
+
+### 8章 入力検証
+* 8.2 プロジェクト：バカを何時間も忙しくさせておく方法(P.236-P.237) [idiot.py](TextBook/CH08/idiot.py)
+* 8.3 プロジェクト：掛け算クイズ(P.238-P.240) [multiplicationQuiz.py](TextBook/CH08/multiplicationQuiz.py)
+* 8.6.1 サンドイッチメーカー (P.241-P.242) [sandwich.py](TextBook/CH08/sandwich.py)
+* 8.6.2 自作の掛け算クイズ (P.242) [mulquiz.py](TextBook/CH08/mulquiz.py)
