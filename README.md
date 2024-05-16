@@ -41,3 +41,10 @@
 * 8.3 プロジェクト：掛け算クイズ(P.238-P.240) [multiplicationQuiz.py](TextBook/CH08/multiplicationQuiz.py)
 * 8.6.1 サンドイッチメーカー (P.241-P.242) [sandwich.py](TextBook/CH08/sandwich.py)
 * 8.6.2 自作の掛け算クイズ (P.242) [mulquiz.py](TextBook/CH08/mulquiz.py)
+
+### 9章 ファイルの読み書き
+* 9.5 プロジェクト：ランダムな問題集ファイルを作成する(P.269-P.275) [randomQuizGenerator.py](TextBook/CH09/randomQuizGenerator.py)
+* 9.6 プロジェクト：更新可能なマルチクリップボード(P.275-P.278) [mcb.pyw](TextBook/CH09/mcb.pyw)
+* 9.9.1 マルチクリップボードを拡張する(P.280) [mcb2.pyw](TextBook/CH09/mcb2.pyw)
+* 9.9.2 文章発生装置(P.280) [sentence_generator.py](TextBook/CH09/sentence_generator.py), [jsentence_generator.py](TextBook/CH09/jsentence_generator.py)
+* 9.9.3 正規表現検索(P.281) [findre.py](TextBook/CH09/findre.py)
