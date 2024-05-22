@@ -48,3 +48,10 @@
 * 9.9.1 マルチクリップボードを拡張する(P.280) [mcb2.pyw](TextBook/CH09/mcb2.pyw)
 * 9.9.2 文章発生装置(P.280) [sentence_generator.py](TextBook/CH09/sentence_generator.py), [jsentence_generator.py](TextBook/CH09/jsentence_generator.py)
 * 9.9.3 正規表現検索(P.281) [findre.py](TextBook/CH09/findre.py)
+
+### 10章 ファイル管理
+* 10.4 プロジェクト：米国式日付を欧州式日付に変換する(P.294-P.298) [renameDates.py](TextBook/CH10/renameDates.py)
+* 10.5 プロジェクト：ディレクトリをZIPファイルにバックアップする(P.298-P.302) [backupToZip.py](TextBook/CH10/backupToZip.py)
+* 10.8.1 選択コピー(P.303-P.303) [walkcopy.py](TextBook/CH10/walkcopy.py)
+* 10.8.2 巨大なファイルを探す(P.303-P.303) [findhugefiles.py](TextBook/CH10/findhugefiles.py)
+* 10.8.3 連番の飛びを埋める(P.303-P.304) [findskipped.py](TextBook/CH10/findskipped.py),[insertgap.py](TextBook/CH10/insertgap.py) テスト用ファイル作成[genseqfiles.py](TextBook/CH10/genseqfiles.py)
