@@ -55,3 +55,9 @@
 * 10.8.1 選択コピー(P.303-P.303) [walkcopy.py](TextBook/CH10/walkcopy.py)
 * 10.8.2 巨大なファイルを探す(P.303-P.303) [findhugefiles.py](TextBook/CH10/findhugefiles.py)
 * 10.8.3 連番の飛びを埋める(P.303-P.304) [findskipped.py](TextBook/CH10/findskipped.py),[insertgap.py](TextBook/CH10/insertgap.py) テスト用ファイル作成[genseqfiles.py](TextBook/CH10/genseqfiles.py)
+
+### 11章 デバッグ
+* 11.1 例外を起こす(P.305-P.307)[boxPrint.py)](TextBook/CH11/boxPrint.py)
+* 11.5.6 足し算プログラムをデバックする[buggyAddingProgram.py](TextBook/CH11/buggyAddingProgram.py)
+* 11.5.7 ブレイクポイント[coinFlip.py](TextBook/CH11/coinFlip.py)
+* 11.8 演習プロジェクト(P.326-P.326)[coinguess.py](TextBook/CH11/coinguess.py)
