@@ -61,3 +61,13 @@
 * 11.5.6 足し算プログラムをデバックする[buggyAddingProgram.py](TextBook/CH11/buggyAddingProgram.py)
 * 11.5.7 ブレイクポイント[coinFlip.py](TextBook/CH11/coinFlip.py)
 * 11.8 演習プロジェクト(P.326-P.326)[coinguess.py](TextBook/CH11/coinguess.py)
+
+### 12章 Webスクレイピング
+* 12.1 プロジェクト：webbrowserモジュールを用いたmapIt.py(P.328-P.331)[mapIt.py](TextBook/CH12/mapIt.py)
+* 12.5 bs4モジュールを用いてHTMLを解析する(P.343-P.347) 解析用HTMLファイル[example.html](TextBook/CH12/example.html)
+* 12.6 プロジェクト：検索結果をすべて開く(P.348-P.351)[searchpypi.py](TextBook/CH12/searchpypi.py)
+* 12.7 プロジェクト：すべてのXKCDコミックをダウンロードする(P.351-P.358)[downloadXkcd.py](TextBook/CH12/downloadXkcd.py)
+* 12.11.1 コマンドライン電子メーラー(P.368-P.368)[ymailer.py](TextBook/CH12/ymailer.py)
+* 12.11.2 画像サイトのダウンローダー(P.368-P.368)[flickrloader.py](TextBook/CH12/flickrloader.py)
+* 12.11.3 2048(P.368-P.368)[play2048.py](TextBook/CH12/play2048.py)
+* 12.11.4 リンクの検査(P.368-P.368)[checkurl.py](TextBook/CH12/checkurl.py)
