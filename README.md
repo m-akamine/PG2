@@ -71,3 +71,14 @@
 * 12.11.2 画像サイトのダウンローダー(P.368-P.368)[flickrloader.py](TextBook/CH12/flickrloader.py)
 * 12.11.3 2048(P.368-P.368)[play2048.py](TextBook/CH12/play2048.py)
 * 12.11.4 リンクの検査(P.368-P.368)[checkurl.py](TextBook/CH12/checkurl.py)
+
+
+### 13章 Excelスプレッドシートの操作
+* 13.3 Excel文書を読み込む(P.371-P.378) サンプルファイル[example.xlsx](TextBook/CH13/example.xlsx)
+* 13.4 プロジェクト：スプレッドシートからデータを読み込む(P.378-P.384)[readCensusExcel.py](TextBook/CH13/readCensusExcel.py), サンプルファイル[censuspopdata.xlsx](TextBook/CH13/censuspopdata.xlsx)
+* 13.6 プロジェクト：スプレッドシートを更新する(P.386-P.390)[updateProduce.py](TextBook/CH13/updateProduce.py), サンプルファイル[produceSales.xlsx](TextBook/CH13/produceSales.xlsx)
+* 13.14.1　掛け算の表を作成する(P.401-P.402)[multiplicationTable.py](TextBook/CH13/multiplicationTable.py)
+* 13.14.2　空行を挿入する(P.402-P.402)[blankRowInserter.py](TextBook/CH13/blankRowInserter.py)
+* 13.14.3　行と列の入れ替え(P.403-P.403)[swaprowcol.py](TextBook/CH13/swaprowcol.py)
+* 13.14.4　テキストファイルからスプレッドシートに変換する(P.404-P.404)[txt2xlsx.py](TextBook/CH13/txt2xlsx.py), ファイル用意スクリプト[gentxtfiles.py](TextBook/CH13/gentxtfiles.py)
+* 13.14.5　スプレッドシートからテキストファイルに変換する(P.404-P.404)[xlsx2txt.py](TextBook/CH13/xlsx2txt.py)
