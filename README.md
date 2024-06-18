@@ -82,3 +82,10 @@
 * 13.14.3　行と列の入れ替え(P.403-P.403)[swaprowcol.py](TextBook/CH13/swaprowcol.py)
 * 13.14.4　テキストファイルからスプレッドシートに変換する(P.404-P.404)[txt2xlsx.py](TextBook/CH13/txt2xlsx.py), ファイル用意スクリプト[gentxtfiles.py](TextBook/CH13/gentxtfiles.py)
 * 13.14.5　スプレッドシートからテキストファイルに変換する(P.404-P.404)[xlsx2txt.py](TextBook/CH13/xlsx2txt.py)
+
+
+### 14章 Google Sheetsの操作
+* 14.3 Sheetオブジェクト(P.422-P.430) サンプルファイル [produceSales.xlsx](TextBook/CH14/produceSales.xlsx)
+* 14.7.1　Google Formsのデータをダウンロードする(P.432-P.433) [downloadForm.py](TextBook/CH14/downloadForm.py)
+* 14.7.2　スプレッドシートを他の形式に変換する(P.432-P.433) [convert.py](TextBook/CH14/convert.py)
+* 14.7.3　スプレッドシートの間違いを見つける(P.432-P.433) [findMistake.py](TextBook/CH14/findMistake.py)
