@@ -1,3 +1,8 @@
+#Goolge認証ファイル、トークンファイル
+credentials-sheets.json
+token-drive.pickle
+token-sheets.pickle
+
 # Created by https://www.toptal.com/developers/gitignore/api/linux,vs,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=linux,vs,python
 
